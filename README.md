@@ -40,7 +40,7 @@ P-gen tool is an python based script which create/generate randrom passwords in 
 * `git clone https://github.com/Anonymous1o0/P-GEN`
 * `cd $HOME`
 * `ls`
-* `cd p-gen`
+* `cd P-GEN`
 * `ls`
 * `python p-gen.py`
 ```
